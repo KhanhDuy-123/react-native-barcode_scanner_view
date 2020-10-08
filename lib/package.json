@@ -12,11 +12,10 @@
     "url": "git+https://github.com/MarnoDev/react-native-qrcode-scanner-view.git"
   },
   "dependencies": {
-    "prop-types": "^15.7.2",
-    "react-native-camera": "^3.40.0"
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
-    "react-native-camera": "^3.40.0"
+    "react-native-camera": "^3.3.0"
   },
   "keywords": [
     "react-native",
